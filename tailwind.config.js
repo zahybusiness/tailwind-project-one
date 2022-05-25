@@ -6,6 +6,7 @@ module.exports = {
         'light-blue':'#f5f7fb',
         'light-gray':'#e6e7e9',
         'pink':'#d6336c',
+        'tblr-blue':'#206bc4',
       }
     },
     maxWidth: {
